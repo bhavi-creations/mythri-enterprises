@@ -2120,7 +2120,7 @@
 ***/
 
 .main-footer{
-	position:relative;
+	/* position:relative; */
 	padding-bottom:45px;
 	background-color: #050505;
 }
@@ -2353,6 +2353,7 @@
 .footer-style-two .widgets-section{
 	position:relative;
 	padding: 90px 0px 60px;
+ 
 }
 
 .footer-style-two .footer-column{
@@ -7486,3 +7487,36 @@
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 }
+
+
+
+
+/* Default styles for all devices */
+.pattern-layer-one {
+	background-image: url(images/Cocktail\ Paradise\ Green\ Natural\ Instagram\ Story.png);
+  }
+  
+  /* Media query for small devices (e.g., smartphones) */
+  @media screen and (max-width: 767px) {
+	.pattern-layer-two {
+	  display: none; /* Hide the element on small devices */
+	}
+  }
+
+
+
+  @media (min-width:992px) {
+	.foot_margin{
+		margin-top: -70px;
+	}
+	
+  }
+
+
+
+  @media (min-width: 768px) {
+	.footer_sm {
+	  display: none;
+	}
+  }
+  
