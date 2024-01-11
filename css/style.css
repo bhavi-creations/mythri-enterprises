@@ -7520,3 +7520,10 @@
 	}
   }
   
+
+  @media (max-width:768px) {
+	.toogle_btn{
+		 margin-top: 10px; 	
+	}
+	
+  }
