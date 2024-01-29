@@ -222,6 +222,14 @@
 ====================================================================
 
 ***/
+@media (max-width:768px) {
+	.pattren_layer_none{
+		display: none;
+	}
+	
+}
+
+
 
 .banner-section{
 	position:relative;
@@ -236,8 +244,13 @@
 	height:164px;
 	z-index:2;
 	background-repeat:repeat-x;
+	
 }
 
+
+.img-fluid{
+background-size: cover	;
+}
 .banner-section .slide{
 	position:relative;
 	overflow:hidden;
@@ -4806,13 +4819,28 @@
 
 ***/
 
+@media (min-width:1022px) {
+	.page-title1{
+		/* position:relative;
+		text-align:center;
+		overflow:hidden; */
+		padding-top:110px;
+		 
+		/* background-size:cover; */
+	}
+	
+}
+
 .page-title{
 	position:relative;
 	text-align:center;
 	overflow:hidden;
-	padding:150px 0px 250px;
-	background-size:cover;
+	/* padding-top:110px; */
+	 
+	/* background-size:cover; */
 }
+
+
 
 .page-title .pattern-layer{
 	position:absolute;
