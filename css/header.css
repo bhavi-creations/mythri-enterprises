@@ -104,7 +104,8 @@
 	display:block;
 	float:left;
 	font-size:20px;
-	color:#ffffff;
+	/* color:#ffffff; */
+	color:black;
 	cursor:pointer;
 	background:none;
 	transition:all 500ms ease;
@@ -123,7 +124,8 @@
 	float:left;
 	top:3px;
 	font-size:24px;
-	color:#ffffff;
+	/* color:#ffffff; */
+	color:#000000;
 	cursor:pointer;
 	margin-left:35px;
 }
@@ -234,7 +236,8 @@
 .main-menu .navigation > li > a{
 	position:relative;
 	display:block;
-	color:#ffffff;
+	/* color:#ffffff; */
+	color: black;
 	text-align:center;
 	line-height:30px;
 	text-transform: capitalize;
