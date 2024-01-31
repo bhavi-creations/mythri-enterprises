@@ -285,6 +285,36 @@ img{
 	transition:all 300ms ease;
 }
 
+ .icon1{
+	position:absolute;
+	left:0px;
+	top:5px;
+	color:#de9190;
+	font-size:18px;
+	line-height:1em;
+	font-weight:300;
+	-webkit-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	transition:all 300ms ease;
+}
+
+ .icon2{
+	position:absolute;
+	left:0px;
+	top:5px;
+	color:#de9190;
+	font-size:18px;
+	line-height:1em;
+	font-weight:300;
+	-webkit-transition:all 300ms ease;
+	-moz-transition:all 300ms ease;
+	-ms-transition:all 300ms ease;
+	-o-transition:all 300ms ease;
+	transition:all 300ms ease;
+}
+
 /* List Style Two */
 
 .list-style-two{

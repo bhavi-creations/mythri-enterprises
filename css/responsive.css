@@ -922,6 +922,12 @@
 		margin-bottom:20px;
 	}
 	
+	.recipe-block .inner-box .icon1{
+		position:relative;
+		margin:0 auto;
+		margin-bottom:20px;
+	}
+	
 	.recipe-block.style-two .inner-box{
 		padding-left:0px;
 		text-align:center;
