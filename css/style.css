@@ -7557,16 +7557,128 @@ background-size: cover	;
   }
 
 
-  .yoyo {
-		background-color: red; /* Change to the color you want */
-		color: #fff; /* Change the text color if necessary */
-		padding: 5px 10px; /* Adjust padding as needed */
-		border-radius: 5px; /* Add border radius for rounded corners */
-
  
+
+	 .nav-pills .line_lemon.active,
+	 .nav-pills .show>.line_lemon {
+		 color: #fff;
+		 background-color:  #00FF00
+	 }
+ 
+	 .line_lemon	{
+		text-decoration:none;
+		cursor:pointer;
+		color:#00FF00;
+		font-weight: bold;
+	}
+	 .nav-pills .lemon_salt.active,
+	 .nav-pills .show>.lemon_salt {
+		 color: #fff;
+		 background-color: #CDDC39
+	 }
+
+	.lemon_salt	{
+		text-decoration:none;
+		cursor:pointer;
+		color:#CDDC39;
+		font-weight: bold;
+	}
+	 .nav-pills .orange.active,
+	 .nav-pills .show>.orange {
+		 color: #fff;
+		 background-color: orange
+	 }
+	 .orange{
+		text-decoration:none;
+		cursor:pointer;
+		color:orange;
+		font-weight: bold;
+	}
+	 .nav-pills .blue_berry.active,
+	 .nav-pills .show>.blue_berry {
+		 color: #fff;
+		 background-color: #1660cf
+	 }
+	 .blue_berry{
+		text-decoration:none;
+		cursor:pointer;
+		color:#1660cf;
+		font-weight: bold;
+	}
+	 .nav-pills .pineapple.active,
+	 .nav-pills .show>.pineapple {
+		 color: #fff;
+		 background-color: #FFD700
+	 } .pineapple{
+		text-decoration:none;
+		cursor:pointer;
+		color:#FFD700;
+		font-weight: bold;
+	}
+	 .nav-pills .grape.active,
+	 .nav-pills .show>.grape {
+		 color: #fff;
+		 background-color: #6A5ACD
+	 } .grape{
+		text-decoration:none;
+		cursor:pointer;
+		color:#6A5ACD;
+		font-weight: bold;
+	}
+	 .nav-pills .cola_jerra.active,
+	 .nav-pills .show>.cola_jerra {
+		 color: #fff;
+		 background-color: #654321
+	 } .cola_jerra{
+		text-decoration:none;
+		cursor:pointer;
+		color:#654321;
+		font-weight: bold;
+	}
+	 .nav-pills .sugandh.active,
+	 .nav-pills .show>.sugandh {
+		 color: #fff;
+		 background-color: #B87333
+	 } .sugandh{
+		text-decoration:none;
+		cursor:pointer;
+		color:#B87333;
+		font-weight: bold;
+	}
+	 .nav-pills .strawberry.active,
+	 .nav-pills .show>.strawberry {
+		 color: #fff;
+		 background-color: #FF4672
+	 } .strawberry{
+		text-decoration:none;
+		cursor:pointer;
+		color:#FF4672;
+		font-weight: bold;
+	}
+	 
+	 .nav-pills .mango.active,
+	 .nav-pills .show>.mango {
+		 color: #fff;
+		 background-color: #fdc650
+	 }
+	 .mango{
+		text-decoration:none;
+		cursor:pointer;
+		color:#fdc650;
+		font-weight: bold;
+	}
+	 .nav-pills .fruit_beer.active,
+	 .nav-pills .show>.fruit_beer {
+		 color: #fff;
+		 background-color: #E30B5C
+	 }
+	 
+	 .fruit_beer{
+		text-decoration:none;
+		cursor:pointer;
+		color:#E30B5C;
+		font-weight: bold;
+	}
+
 
 	 
- 
-	/* background-color:inherit !important; */
- 	}
-	
