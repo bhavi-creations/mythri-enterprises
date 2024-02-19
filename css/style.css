@@ -7681,4 +7681,48 @@ background-size: cover	;
 	}
 
 
-	 
+	@media  (min-width: 435px) and (max-width: 464px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 1% !important;
+		}
+	  }
+	  
+	  
+	@media  (min-width: 464px) and (max-width: 490px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 10% !important;
+		}
+	  }
+	
+		
+	@media  (min-width: 490px) and (max-width: 516px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 20% !important;
+		}
+	  }
+	
+	  @media  (min-width: 490px) and (max-width: 516px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 12% !important;
+		}
+	  }
+	
+	
+	  @media  (min-width: 516px) and (max-width: 575px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 15% !important;
+		}
+	  }
+	  
+	  
+	  @media  (min-width: 567px) and (max-width: 767px) {
+		.gallery {
+		  /* margin-left: 60px; */
+		  margin-left: 15% !important;
+		}
+	  }
